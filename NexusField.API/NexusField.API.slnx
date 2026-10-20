@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../NexusField.Application/NexusField.Application.csproj" />
+  <Project Path="../NexusField.Domain/NexusField.Domain.csproj" />
+  <Project Path="../NexusField.Infrastructure/NexusField.Infrastructure.csproj" />
+  <Project Path="NexusField.API.csproj" />
+</Solution>

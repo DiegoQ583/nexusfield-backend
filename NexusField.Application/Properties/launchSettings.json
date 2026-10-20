@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NexusField.Application": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57403;http://localhost:57406"
+    }
+  }
+}

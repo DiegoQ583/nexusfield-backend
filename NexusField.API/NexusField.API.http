@@ -1,0 +1,6 @@
+@NexusField.API_HostAddress = http://localhost:5261
+
+GET {{NexusField.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

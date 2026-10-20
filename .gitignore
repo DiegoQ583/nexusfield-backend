@@ -1,0 +1,21 @@
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos de Visual Studio / IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+*.db
+*.sqlite3
+
+# Secretos y Entornos (INNEGOCIABLE)
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+appsettings.Production.json
+
+# Logs
+*.log
